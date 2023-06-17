@@ -1,0 +1,22 @@
+.carousel-container {
+    width: 500px; /* Set the desired width for the carousel */
+    height:500px;
+  }
+  
+  .container-fluid{
+    height:50%;
+    width:25%;
+  }
+  body{
+    background-color: pink;
+  }
+  .raghu{
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+    color:black;
+  }
+  .room{
+    text-align: center;
+    padding:2% 0 3% 0;
+    font-size: 4rem;
+  }
